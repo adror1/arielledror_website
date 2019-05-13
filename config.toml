@@ -1,6 +1,6 @@
 baseurl = "https://arielledror.netlify.com/"
 languageCode = "en-US"
-title = "Chris Turner"
+title = "Arielle Dror"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -11,8 +11,8 @@ theme = "hugo-sustain"
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "profile.png"
-  author = "Chris Turner"
+  avatar = "image-2019-05-13.png"
+  author = "Arielle Dror"
   description = "Describe your website"
 
   # Custom assets can be linked with their paths relative to static/
@@ -20,9 +20,9 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "username"
-  Email         = "email@example.com"
-  Twitter       = "username"
+  Github        = "adror1"
+  Email         = "adror@smith.edu"
+  Twitter       = "arielle_dror"
   LinkedIn      = "username"
   Stackoverflow = "username"
   Medium        = "username"
