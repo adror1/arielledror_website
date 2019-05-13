@@ -23,10 +23,7 @@ theme = "hugo-sustain"
   Github        = "adror1"
   Email         = "adror@smith.edu"
   Twitter       = "arielle_dror"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
+  LinkedIn      = "arielle-dror-8a488215b/"
 
 ## Main Menu
 [[menu.main]]
