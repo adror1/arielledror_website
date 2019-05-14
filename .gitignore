@@ -4,4 +4,5 @@
 .Ruserdata
 blogdown
 .DS_Store
-public/ 
+public/
+README.html
