@@ -1,20 +1,35 @@
-# Global settings applied to the whole site.
-[build]
-  command = "hugo"
-  publish = "public"
+      <h5>
+          <i class="{{ .icon }}"></i>&nbsp;&nbsp;
+          <strong><a href="http://www.science.smith.edu/datafest/2019/04/03/winners-from-five-college-asa-datafest-2019/">Five College ASA Datafest 2019 Project</a></strong>&nbsp;-&nbsp;{{ $el.description }}
+        </h5>
+        <h5>
+          <i class="{{ .icon }}"></i>&nbsp;&nbsp;
+          <strong><a href="https://github.com/adror1/SDS390FinalProject">Exploratory Analysis of Cosponsorship in the 115th Congress</a></strong>&nbsp;-&nbsp;{{ $el.description }}
+        </h5>
+          <h5>
+          <i class="{{ .icon }}"></i>&nbsp;&nbsp;
+          <strong><a href="https://www.ic.gatech.edu/news/608094/fifth-summer-civic-data-science-program-presents-community-focused-solutions">Popular Sentiment of U.S. Electric Vehicle Drivers</a></strong>&nbsp;-&nbsp;{{ $el.description }}
+        </h5>
 
-# Build a preview of the site (Drafts and Future dates also) 
-#   Un-comment next two lines.
-#[context.deploy-preview]
-#  command = "hugo --buildFuture"
 
-[context.production.environment]
-  HUGO_VERSION = "0.55.5"
+Here are some of my favorite projects! Most of these projects used data that cannot be shared, so I am unable to link to anything specific. However, if you want to learn more, please contact me!
 
-# you can lock a version of hugo for a deploy preview
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.55.5"
 
-# you can lock a version of hugo for a branch-deploy (other than previews)
-[context.branch-deploy.environment]
-  HUGO_VERSION = "0.55.5"
+
+
+name: Projects
+source:
+  - icon: fa fa-globe
+    title: Popular Sentiment of U.S. Electric Vehicle Drivers
+   # link: "https://www.ic.gatech.edu/news/608094/fifth-summer-civic-data-science-program-presents-community-focused-solutions"
+    description: An analysis of the current state of electric vehicle charging infrastructure through analysis of user reviews of the charging stations. We presented our findings in poster sessions at the MIT IEEE Undergraduate Technology Research Conference (October 2018) and Transportation Research Board's Annual Meeting (January 2019). This project was completed during the 2018 Civic Data Science REU at Georgia Tech with Professor Omar Isaac Asensio in the School of Public Policy. 
+
+  - icon: fa fa-github
+    title: Exploratory Analysis of Cosponsorship in the 115th Congress
+   # link: https://github.com/adror1/SDS390FinalProject
+    description: Final project for SDS 390 (Social Network Analysis). We used the cosponsorships of bills in the Senate during the 115th Congress (2017-2018) to model partisanship and cosponsorship patterns based on demographic factors of the senators.
+
+ - icon: fa fa-cog
+    title: Five College ASA Datafest 2019 Project
+    #link: http://www.science.smith.edu/datafest/2019/04/03/winners-from-five-college-asa-datafest-2019/
+    description: Competed in a weekend-long data analysis competition with a team of fellow Smith undergraduates against other teams from the Five Colleges. We were awarded Best-In-Show (first place)!
