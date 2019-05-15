@@ -10,7 +10,7 @@ source:
     link: https://github.com/adror1/SDS390FinalProject
     description: Final project for SDS 390 (Social Network Analysis). We used the cosponsorships of bills in the Senate during the 115th Congress (2017-2018) to model partisanship and cosponsorship patterns based on demographic factors of the senators.
 
-  - icon: fa fa-github
+  - icon: fa fa-cog
     title: Five College ASA Datafest 2019 
     link: http://www.science.smith.edu/datafest/2019/04/03/winners-from-five-college-asa-datafest-2019/
     description: Competed in a weekend-long data analysis competition with a team of fellow Smith undergraduates against other teams from the Five Colleges. We were awarded Best-In-Show (first place)!
