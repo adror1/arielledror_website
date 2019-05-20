@@ -6,10 +6,19 @@
     <description>Recent content on Arielle Dror</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>resume</title>
+      <link>/2019/05/20/resume/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/20/resume/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Projects</title>
@@ -74,25 +83,6 @@ Follow the following steps:
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/resume/</guid>
-      <description>This browser does not support PDFs. Please download the PDF to view it: Download PDF.
-  </description>
-    </item>
-    
-    <item>
-      <title>resume</title>
-      <link>/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/resume/</guid>
-      <description> &amp;lt;embed src=&amp;quot;http://yoursite.com/the.pdf&amp;quot;&amp;gt; &amp;lt;p&amp;gt;This browser does not support PDFs. Please download the PDF to view it: &amp;lt;a href=&amp;quot;http://yoursite.com/the.pdf&amp;quot;&amp;gt;Download PDF&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt; &amp;lt;/embed&amp;gt;  </description>
     </item>
     
   </channel>
