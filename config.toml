@@ -1,4 +1,5 @@
-baseurl = "https://arielledror.netlify.com/"
+baseurl = "https://arielledror.com/"
+#url = "https://www.arielledror.com"
 languageCode = "en-US"
 title = "Arielle Dror"
 # Enable comments by entering your Disqus shortname
@@ -26,11 +27,11 @@ theme = "hugo-sustain"
   LinkedIn      = "arielle-dror-8a488215b/"
 
 ## Main Menu
-[[menu.main]]
-  name = "blog"
-  weight = 100
-  identifier = "blog"
-  url = "/blog/"
+##[[menu.main]]
+ ## name = "blog"
+ ## weight = 100
+ ## identifier = "blog"
+ ## url = "/blog/"
 [[menu.main]]
   name = "projects"
   identifier = "projects"
