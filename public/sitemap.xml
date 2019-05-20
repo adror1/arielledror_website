@@ -140,4 +140,23 @@
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
+  <url>
+    <loc>/resume/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/resume/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/resume/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/resume/</loc>
+  </url>
+  
 </urlset>

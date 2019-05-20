@@ -1,5 +1,4 @@
 baseurl = "https://arielledror.com/"
-#url = "https://www.arielledror.com"
 languageCode = "en-US"
 title = "Arielle Dror"
 # Enable comments by entering your Disqus shortname
@@ -37,6 +36,7 @@ theme = "hugo-sustain"
   identifier = "projects"
   weight = 200
   url = "/projects/"
+  
 [[menu.main]]
   name = "resume"
   identifier = "resume"
