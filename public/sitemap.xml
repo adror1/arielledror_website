@@ -32,13 +32,13 @@
   </url>
   
   <url>
-    <loc>/categories/resume/</loc>
+    <loc>/tags/resume/</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/resume/</loc>
+    <loc>/categories/resume/</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -54,13 +54,13 @@
   </url>
   
   <url>
-    <loc>/categories/projects/</loc>
+    <loc>/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/projects/</loc>
+    <loc>/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -134,13 +134,13 @@
   </url>
   
   <url>
-    <loc>/categories/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
