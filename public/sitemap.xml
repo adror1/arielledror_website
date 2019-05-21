@@ -27,13 +27,13 @@
   </url>
   
   <url>
-    <loc>https://arielledror.com/tags/resume/</loc>
+    <loc>https://arielledror.com/categories/resume/</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://arielledror.com/categories/resume/</loc>
+    <loc>https://arielledror.com/tags/resume/</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -49,13 +49,13 @@
   </url>
   
   <url>
-    <loc>https://arielledror.com/tags/projects/</loc>
+    <loc>https://arielledror.com/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://arielledror.com/categories/projects/</loc>
+    <loc>https://arielledror.com/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -129,13 +129,13 @@
   </url>
   
   <url>
-    <loc>https://arielledror.com/tags/golang/</loc>
+    <loc>https://arielledror.com/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://arielledror.com/categories/golang/</loc>
+    <loc>https://arielledror.com/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
