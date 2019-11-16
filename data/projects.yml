@@ -6,9 +6,9 @@ source:
     description: An analysis of the current state of electric vehicle charging infrastructure through analysis of user reviews of the charging stations. We presented our findings in poster sessions at the MIT IEEE Undergraduate Technology Research Conference (October 2018) and Transportation Research Board's Annual Meeting (January 2019). This project was completed during the 2018 Civic Data Science REU at Georgia Tech with Professor Omar Isaac Asensio in the School of Public Policy. 
 
   - icon: fa fa-github
-    title: Exploratory Analysis of Cosponsorship in the 115th Congress
+    title: Using Network Analysis to Understand Legislative Behavior
     link: https://github.com/adror1/SDS390FinalProject
-    description: Final project for SDS 390 (Social Network Analysis). We used the cosponsorships of bills in the Senate during the 115th Congress (2017-2018) to model partisanship and cosponsorship patterns based on demographic factors of the senators.
+    description: Final project for SDS 390 (Social Network Analysis). We used the cosponsorships of bills in the Senate during the 115th Congress (2017-2018) to model partisanship and cosponsorship patterns based on demographic factors of the senators. My group presented this work at the ASA's Women in Statistics and Data Science Conference (October 2019). I am now working on this project independently as a honors thesis in the Government department.
 
   - icon: fa fa-cog
     title: Five College ASA Datafest 2019 
