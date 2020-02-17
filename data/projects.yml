@@ -8,15 +8,17 @@ source:
   - icon: fa fa-github
     title: Using Network Analysis to Understand Legislative Behavior
     link: https://github.com/adror1/SDS390FinalProject
-    description: Final project for SDS 390 (Social Network Analysis). We used the cosponsorships of bills in the Senate during the 115th Congress (2017-2018) to model partisanship and cosponsorship patterns based on demographic factors of the senators. My group presented this work at the ASA's Women in Statistics and Data Science Conference (October 2019). I am now working on this project independently as a honors thesis in the Government department.
+    description: Final project for SDS 390 (Social Network Analysis). We used the cosponsorships of bills in the Senate during the 115th Congress (2017-2018) to model partisanship and cosponsorship patterns based on demographic factors of the senators. My group presented this work at the ASA's Women in Statistics and Data Science Conference (October 2019). I continued to work on this project as an independent study in the Government department for subsequent semesters.
 
+  - icon: fa fa-github
+    title: nwslR
+    link: https://github.com/adror1/nwslR
+    description: NwslR is the first R package that covers data related to the National Women's Soccer League (NWSL). Compiles datasets from various sources as well as provides basic analysis functions. 
+  
   - icon: fa fa-cog
-    title: Five College ASA Datafest 2019 
+    title: Predicting Player Fatigue in Professional Athletes (Five College ASA Datafest 2019) 
     link: http://www.science.smith.edu/datafest/2019/04/03/winners-from-five-college-asa-datafest-2019/
-    description: Competed in a weekend-long data analysis competition with a team of fellow Smith undergraduates against other teams from the Five Colleges. We were awarded Best-In-Show (first place)!
-
-# - icon: fa fa-globe
-#    description: Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem, ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
+    description: Competed in a weekend-long data analysis competition with a team of fellow Smith undergraduates against other teams from the Five Colleges. We used regression analysis to quantify player fatigue in professional women's rugby athletes. We were awarded Best-In-Show (first place)!
 
 #  - icon: fa fa-globe
 #    description: Dicta causae meliore ex vel, in vix erant integre petentium. Vix ei nisl scripta recusabo, eam doming blandit facilisis.
